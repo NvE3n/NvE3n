@@ -26,8 +26,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ---
-
 ![](https://github-readme-stats.vercel.app/api?username=NvE3n&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NvE3n&theme=default&hide_border=true)<br/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NvE3n&icon=0&color=12)](https://visitcount.itsvg.in)
