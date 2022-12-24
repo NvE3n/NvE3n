@@ -1,4 +1,3 @@
-                                                                                                                                  
 ### I am a Artificial Intelligence Explorer. Find out more about me & feel free to connect with me here:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Naveen_Adhkari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
