@@ -1,7 +1,10 @@
+![image](https://user-images.githubusercontent.com/100472550/209429446-3ab7dd35-338e-49cc-bde3-2aeeff37934f.png)
+
+                                                                                                                                         
 ### I am a Artificial Intelligence Explorer. Find out more about me & feel free to connect with me here:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Naveen_Adhkari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
-- [![Gmail Badge](https://img.shields.io/badge/-manethadikari21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-manethadikari21-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 - [![Facebook Badge](https://img.shields.io/badge/Maneth_Naveen-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 ## ⚡ hammer_and_wrench:
